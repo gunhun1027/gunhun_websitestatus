@@ -50,9 +50,9 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  github: "https://github.com/imsyy/site-status",
+  github: "https://github.com/gunhun4018",
   home: "https://www.imsyy.top",
-  email: "mailto:one@imsyy.top",
+  email: "mailto:admin@gunhun.dpdns.org",
 };
 </script>
 
